@@ -1,0 +1,20 @@
+html,
+body {
+  background: #eee;
+  height: 100vh;
+}
+body {
+  padding: 50px 0 0 !important;
+}
+h1 {
+  text-align: center;
+}
+.page {
+  max-width: 768px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 20px #0001;
+  border-bottom: 1px solid #0002;
+}

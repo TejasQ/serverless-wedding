@@ -1,0 +1,8 @@
+{
+    "version":2,
+    "public": true,
+    "alias": "serverless-wedding.now.sh",
+    "builds":[
+        {"src":"package.json","use":"@now/next"}
+    ]
+}
