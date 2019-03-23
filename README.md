@@ -6,4 +6,10 @@ This is a full CRUD application to demonstrate working with serverless architect
 
 It's just a tutorial/demo.
 
+## It Uses
+
+- [Hasura](https://hasura.io) for the database + API
+- [React](https://reactjs.org) on [Next](https://nextjs.org/) for the UI
+- [Now](https://now.sh) for cloud deployment
+
 I hope it adds value to your experience as a developer around serverless.
